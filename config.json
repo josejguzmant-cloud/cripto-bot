@@ -1,0 +1,23 @@
+{
+  "redes": ["solana", "base", "bsc", "monad"],
+
+  "capital_usd": 0,
+  "riesgo_por_operacion_pct": 2,
+  "comision_fomo_usd": 1,
+
+  "liquidez_minima_usd": 75000,
+  "volumen_24h_minimo_usd": 150000,
+  "edad_minima_horas": 24,
+  "capitalizacion_minima_usd": 300000,
+
+  "stop_minimo_pct": 4,
+  "stop_maximo_pct": 15,
+  "max_por_operacion_pct": 25,
+  "objetivo_1_en_R": 1.5,
+  "objetivo_2_en_R": 3,
+
+  "max_alertas_por_vuelta": 3,
+  "horas_sin_repetir_moneda": 6,
+  "horas_validez_senal": 48,
+  "exigir_revision_de_seguridad": true
+}
