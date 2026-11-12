@@ -1,5 +1,24 @@
 {
- "senales": [],
+ "senales": [
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1794445058.8314836,
+   "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
+   "entrada": 0.736,
+   "entrada_max": 0.744345273536653,
+   "pool": "0x0e6E1F47C64f517fc9dC35698718C7Dfc708D534",
+   "red": "bsc",
+   "riesgo_pct": 4.5354747481810005,
+   "simbolo": "DGAI",
+   "stop": 0.7026189058533878,
+   "t1": 0.7860716412199182,
+   "t2": 0.8361432824398365,
+   "tipo": "retroceso",
+   "token": "0x10d4183389e99233db3cc981c43443ebd28ebd5e",
+   "url": "https://dexscreener.com/bsc/0x0e6e1f47c64f517fc9dc35698718c7dfc708d534"
+  }
+ ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-11T18:30:50+00:00"
+ "ultima_vuelta": "2026-11-12T00:58:45+00:00"
 }
