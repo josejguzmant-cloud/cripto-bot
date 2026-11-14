@@ -1,7 +1,8 @@
 {
  "senales": [
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "vencida",
    "comprada": false,
    "creada": 1794445058.8314836,
    "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
@@ -16,10 +17,10 @@
    "t2": 0.8361432824398365,
    "tipo": "retroceso",
    "token": "0x10d4183389e99233db3cc981c43443ebd28ebd5e",
-   "ultimo_precio": 0.7201,
+   "ultimo_precio": 0.7149,
    "url": "https://dexscreener.com/bsc/0x0e6e1f47c64f517fc9dc35698718c7dfc708d534"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-13T23:29:56+00:00"
+ "ultima_vuelta": "2026-11-14T03:31:01+00:00"
 }
