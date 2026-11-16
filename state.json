@@ -19,8 +19,26 @@
    "token": "0x10d4183389e99233db3cc981c43443ebd28ebd5e",
    "ultimo_precio": 0.7149,
    "url": "https://dexscreener.com/bsc/0x0e6e1f47c64f517fc9dc35698718c7dfc708d534"
+  },
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1794846593.5042827,
+   "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
+   "entrada": 0.011156149276840705,
+   "entrada_max": 0.01146478259268865,
+   "pool": "5AFbwVSQPJf4cgEjq4TajZYyPYUvYktrRN3SahNrPnmv",
+   "red": "solana",
+   "riesgo_pct": 11.065944285584001,
+   "simbolo": "GTA6",
+   "stop": 0.00992161601344893,
+   "t1": 0.013007949171928369,
+   "t2": 0.01485974906701603,
+   "tipo": "retroceso",
+   "token": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+   "url": "https://dexscreener.com/solana/5afbwvsqpjf4cgejq4tajzyypyuvyktrrn3sahnrpnmv"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-16T06:46:31+00:00"
+ "ultima_vuelta": "2026-11-16T16:31:25+00:00"
 }
