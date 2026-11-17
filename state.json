@@ -21,7 +21,8 @@
    "url": "https://dexscreener.com/bsc/0x0e6e1f47c64f517fc9dc35698718c7dfc708d534"
   },
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "objetivo 2",
    "comprada": false,
    "creada": 1794846593.5042827,
    "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
@@ -36,9 +37,10 @@
    "t2": 0.01485974906701603,
    "tipo": "retroceso",
    "token": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+   "ultimo_precio": 0.01525,
    "url": "https://dexscreener.com/solana/5afbwvsqpjf4cgejq4tajzyypyuvyktrrn3sahnrpnmv"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-16T16:31:25+00:00"
+ "ultima_vuelta": "2026-11-17T00:26:32+00:00"
 }
