@@ -36,9 +36,10 @@
    "t2": 0.8246085362365542,
    "tipo": "ruptura",
    "token": "0x10d4183389e99233db3cc981c43443ebd28ebd5e",
+   "ultimo_precio": 0.7072,
    "url": "https://dexscreener.com/bsc/0x0e6e1f47c64f517fc9dc35698718c7dfc708d534"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-19T04:09:37+00:00"
+ "ultima_vuelta": "2026-11-19T12:59:24+00:00"
 }
