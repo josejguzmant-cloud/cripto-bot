@@ -39,8 +39,62 @@
    "token": "0x10d4183389e99233db3cc981c43443ebd28ebd5e",
    "ultimo_precio": 0.6903,
    "url": "https://dexscreener.com/bsc/0x0e6e1f47c64f517fc9dc35698718c7dfc708d534"
+  },
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1795295231.4821239,
+   "detalle": "rompió el máximo de las últimas 6 horas con volumen fuerte",
+   "entrada": 24.18,
+   "entrada_max": 24.386597309148215,
+   "pool": "0x01784ef301D79e4B2DF3a21ad9a536d4cF09A5Ce",
+   "red": "base",
+   "riesgo_pct": 3.417656065313759,
+   "simbolo": "VVV",
+   "stop": 23.353610763407133,
+   "t1": 25.4195838548893,
+   "t2": 26.6591677097786,
+   "tipo": "ruptura",
+   "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+   "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
+  },
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1795295231.4821239,
+   "detalle": "rompió el máximo de las últimas 6 horas con volumen fuerte",
+   "entrada": 24.18,
+   "entrada_max": 24.386597309148215,
+   "pool": "0x01784ef301D79e4B2DF3a21ad9a536d4cF09A5Ce",
+   "red": "base",
+   "riesgo_pct": 3.417656065313759,
+   "simbolo": "VVV",
+   "stop": 23.353610763407133,
+   "t1": 25.4195838548893,
+   "t2": 26.6591677097786,
+   "tipo": "ruptura",
+   "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+   "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
+  },
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1795295231.4821239,
+   "detalle": "rompió el máximo de las últimas 6 horas con volumen fuerte",
+   "entrada": 24.18,
+   "entrada_max": 24.386597309148215,
+   "pool": "0x01784ef301D79e4B2DF3a21ad9a536d4cF09A5Ce",
+   "red": "base",
+   "riesgo_pct": 3.417656065313759,
+   "simbolo": "VVV",
+   "stop": 23.353610763407133,
+   "t1": 25.4195838548893,
+   "t2": 26.6591677097786,
+   "tipo": "ruptura",
+   "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+   "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-21T15:32:29+00:00"
+ "ultima_vuelta": "2026-11-21T21:08:44+00:00"
 }
