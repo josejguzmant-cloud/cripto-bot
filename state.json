@@ -51,12 +51,13 @@
    "red": "base",
    "riesgo_pct": 3.417656065313759,
    "simbolo": "VVV",
-   "stop": 23.353610763407133,
+   "stop": 24.18,
    "t1": 25.4195838548893,
+   "t1_alcanzado": true,
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 25.087,
+   "ultimo_precio": 25.65,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
@@ -70,12 +71,13 @@
    "red": "base",
    "riesgo_pct": 3.417656065313759,
    "simbolo": "VVV",
-   "stop": 23.353610763407133,
+   "stop": 24.18,
    "t1": 25.4195838548893,
+   "t1_alcanzado": true,
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 25.087,
+   "ultimo_precio": 25.65,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
@@ -89,15 +91,16 @@
    "red": "base",
    "riesgo_pct": 3.417656065313759,
    "simbolo": "VVV",
-   "stop": 23.353610763407133,
+   "stop": 24.18,
    "t1": 25.4195838548893,
+   "t1_alcanzado": true,
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 25.087,
+   "ultimo_precio": 25.65,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-22T08:09:26+00:00"
+ "ultima_vuelta": "2026-11-22T16:16:34+00:00"
 }
