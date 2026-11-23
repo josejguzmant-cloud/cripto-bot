@@ -57,7 +57,7 @@
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 26.27,
+   "ultimo_precio": 26.28,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
@@ -77,7 +77,7 @@
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 26.27,
+   "ultimo_precio": 26.28,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
@@ -97,7 +97,7 @@
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 26.27,
+   "ultimo_precio": 26.28,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
@@ -116,7 +116,7 @@
    "t2": 0.00283043024461381,
    "tipo": "retroceso",
    "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-   "ultimo_precio": 0.002534,
+   "ultimo_precio": 0.002556,
    "url": "https://dexscreener.com/solana/2uf4xh61rdwxng9woyxsvqp7zua6klfpb3nvnrqeoisd"
   },
   {
@@ -135,10 +135,10 @@
    "t2": 0.00283043024461381,
    "tipo": "retroceso",
    "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-   "ultimo_precio": 0.002534,
+   "ultimo_precio": 0.002556,
    "url": "https://dexscreener.com/solana/2uf4xh61rdwxng9woyxsvqp7zua6klfpb3nvnrqeoisd"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-23T02:17:39+00:00"
+ "ultima_vuelta": "2026-11-23T10:55:55+00:00"
 }
