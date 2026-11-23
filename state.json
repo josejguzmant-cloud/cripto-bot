@@ -2,26 +2,6 @@
  "senales": [
   {
    "abierta": false,
-   "cierre": "objetivo 2",
-   "comprada": false,
-   "creada": 1794846593.5042827,
-   "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
-   "entrada": 0.011156149276840705,
-   "entrada_max": 0.01146478259268865,
-   "pool": "5AFbwVSQPJf4cgEjq4TajZYyPYUvYktrRN3SahNrPnmv",
-   "red": "solana",
-   "riesgo_pct": 11.065944285584001,
-   "simbolo": "GTA6",
-   "stop": 0.00992161601344893,
-   "t1": 0.013007949171928369,
-   "t2": 0.01485974906701603,
-   "tipo": "retroceso",
-   "token": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
-   "ultimo_precio": 0.01525,
-   "url": "https://dexscreener.com/solana/5afbwvsqpjf4cgejq4tajzyypyuvyktrrn3sahnrpnmv"
-  },
-  {
-   "abierta": false,
    "cierre": "stop",
    "comprada": false,
    "creada": 1795061271.4750326,
@@ -41,7 +21,8 @@
    "url": "https://dexscreener.com/bsc/0x0e6e1f47c64f517fc9dc35698718c7dfc708d534"
   },
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "vencida",
    "comprada": false,
    "creada": 1795295231.4821239,
    "detalle": "rompió el máximo de las últimas 6 horas con volumen fuerte",
@@ -57,11 +38,12 @@
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 26.28,
+   "ultimo_precio": 24.48,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "vencida",
    "comprada": false,
    "creada": 1795295231.4821239,
    "detalle": "rompió el máximo de las últimas 6 horas con volumen fuerte",
@@ -77,11 +59,12 @@
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 26.28,
+   "ultimo_precio": 24.48,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "vencida",
    "comprada": false,
    "creada": 1795295231.4821239,
    "detalle": "rompió el máximo de las últimas 6 horas con volumen fuerte",
@@ -97,7 +80,7 @@
    "t2": 26.6591677097786,
    "tipo": "ruptura",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 26.28,
+   "ultimo_precio": 24.48,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
@@ -116,7 +99,7 @@
    "t2": 0.00283043024461381,
    "tipo": "retroceso",
    "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-   "ultimo_precio": 0.002556,
+   "ultimo_precio": 0.002516,
    "url": "https://dexscreener.com/solana/2uf4xh61rdwxng9woyxsvqp7zua6klfpb3nvnrqeoisd"
   },
   {
@@ -135,10 +118,28 @@
    "t2": 0.00283043024461381,
    "tipo": "retroceso",
    "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-   "ultimo_precio": 0.002556,
+   "ultimo_precio": 0.002516,
    "url": "https://dexscreener.com/solana/2uf4xh61rdwxng9woyxsvqp7zua6klfpb3nvnrqeoisd"
+  },
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1795472860.6747322,
+   "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
+   "entrada": 0.0023484188596415586,
+   "entrada_max": 0.00242839387727003,
+   "pool": "DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB",
+   "red": "solana",
+   "riesgo_pct": 13.621934145202372,
+   "simbolo": "FIONA",
+   "stop": 0.002028518789127673,
+   "t1": 0.0028282689654123873,
+   "t2": 0.0033081190711832156,
+   "tipo": "retroceso",
+   "token": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump",
+   "url": "https://dexscreener.com/solana/djbltx1hrgzzrjgj7cwtx6sn3d7tbliytkgwombuwtvb"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-23T10:55:55+00:00"
+ "ultima_vuelta": "2026-11-23T22:28:33+00:00"
 }
