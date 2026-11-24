@@ -84,7 +84,8 @@
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "stop",
    "comprada": false,
    "creada": 1795384421.3463347,
    "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
@@ -99,11 +100,12 @@
    "t2": 0.00283043024461381,
    "tipo": "retroceso",
    "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-   "ultimo_precio": 0.002541,
+   "ultimo_precio": 0.002416,
    "url": "https://dexscreener.com/solana/2uf4xh61rdwxng9woyxsvqp7zua6klfpb3nvnrqeoisd"
   },
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "stop",
    "comprada": false,
    "creada": 1795384421.3463347,
    "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
@@ -118,7 +120,7 @@
    "t2": 0.00283043024461381,
    "tipo": "retroceso",
    "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-   "ultimo_precio": 0.002541,
+   "ultimo_precio": 0.002416,
    "url": "https://dexscreener.com/solana/2uf4xh61rdwxng9woyxsvqp7zua6klfpb3nvnrqeoisd"
   },
   {
@@ -143,5 +145,5 @@
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-24T06:19:36+00:00"
+ "ultima_vuelta": "2026-11-24T17:58:48+00:00"
 }
