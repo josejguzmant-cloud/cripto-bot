@@ -2,26 +2,6 @@
  "senales": [
   {
    "abierta": false,
-   "cierre": "stop",
-   "comprada": false,
-   "creada": 1795061271.4750326,
-   "detalle": "rompió el máximo de las últimas 6 horas con volumen fuerte",
-   "entrada": 0.7271,
-   "entrada_max": 0.7352257113530462,
-   "pool": "0x0e6E1F47C64f517fc9dC35698718C7Dfc708D534",
-   "red": "bsc",
-   "riesgo_pct": 4.470202917368276,
-   "simbolo": "DGAI",
-   "stop": 0.6945971545878152,
-   "t1": 0.7758542681182771,
-   "t2": 0.8246085362365542,
-   "tipo": "ruptura",
-   "token": "0x10d4183389e99233db3cc981c43443ebd28ebd5e",
-   "ultimo_precio": 0.6903,
-   "url": "https://dexscreener.com/bsc/0x0e6e1f47c64f517fc9dc35698718c7dfc708d534"
-  },
-  {
-   "abierta": false,
    "cierre": "vencida",
    "comprada": false,
    "creada": 1795295231.4821239,
@@ -142,8 +122,44 @@
    "token": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump",
    "ultimo_precio": 0.004277,
    "url": "https://dexscreener.com/solana/djbltx1hrgzzrjgj7cwtx6sn3d7tbliytkgwombuwtvb"
+  },
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1795695506.4540074,
+   "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
+   "entrada": 27.82,
+   "entrada_max": 28.10019317267329,
+   "pool": "0x01784ef301D79e4B2DF3a21ad9a536d4cF09A5Ce",
+   "red": "base",
+   "riesgo_pct": 4.028658126143618,
+   "simbolo": "VVV",
+   "stop": 26.699227309306846,
+   "t1": 29.50115903603973,
+   "t2": 31.182318072079465,
+   "tipo": "retroceso",
+   "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+   "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
+  },
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1795695506.4540074,
+   "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
+   "entrada": 27.82,
+   "entrada_max": 28.10019317267329,
+   "pool": "0x01784ef301D79e4B2DF3a21ad9a536d4cF09A5Ce",
+   "red": "base",
+   "riesgo_pct": 4.028658126143618,
+   "simbolo": "VVV",
+   "stop": 26.699227309306846,
+   "t1": 29.50115903603973,
+   "t2": 31.182318072079465,
+   "tipo": "retroceso",
+   "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+   "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-26T03:06:16+00:00"
+ "ultima_vuelta": "2026-11-26T12:19:46+00:00"
 }
