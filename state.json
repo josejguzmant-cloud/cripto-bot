@@ -124,7 +124,8 @@
    "url": "https://dexscreener.com/solana/djbltx1hrgzzrjgj7cwtx6sn3d7tbliytkgwombuwtvb"
   },
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "stop",
    "comprada": false,
    "creada": 1795695506.4540074,
    "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
@@ -139,11 +140,12 @@
    "t2": 31.182318072079465,
    "tipo": "retroceso",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 27.36,
+   "ultimo_precio": 26.19,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   },
   {
-   "abierta": true,
+   "abierta": false,
+   "cierre": "stop",
    "comprada": false,
    "creada": 1795695506.4540074,
    "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
@@ -158,10 +160,10 @@
    "t2": 31.182318072079465,
    "tipo": "retroceso",
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-   "ultimo_precio": 27.36,
+   "ultimo_precio": 26.19,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-27T13:14:21+00:00"
+ "ultima_vuelta": "2026-11-27T22:06:17+00:00"
 }
