@@ -162,8 +162,26 @@
    "token": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
    "ultimo_precio": 26.19,
    "url": "https://dexscreener.com/base/0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
+  },
+  {
+   "abierta": true,
+   "comprada": false,
+   "creada": 1795869820.1558466,
+   "detalle": "bajó a la media de 21 velas y está rebotando hacia arriba",
+   "entrada": 91.51,
+   "entrada_max": 92.34592080831105,
+   "pool": "0x90054b8465f201fa4e1d462c5205359b2e978eb3e71fb248094fc0f812546027",
+   "red": "base",
+   "riesgo_pct": 3.6538992823124943,
+   "simbolo": "ANTc",
+   "stop": 88.16631676675584,
+   "t1": 96.52552484986626,
+   "t2": 101.5410496997325,
+   "tipo": "retroceso",
+   "token": "0xb20000000000000000000016e38fd364d271ba28",
+   "url": "https://dexscreener.com/base/0x90054b8465f201fa4e1d462c5205359b2e978eb3e71fb248094fc0f812546027"
   }
  ],
  "telegram_offset": 779432191,
- "ultima_vuelta": "2026-11-28T03:53:57+00:00"
+ "ultima_vuelta": "2026-11-28T12:44:46+00:00"
 }
